@@ -3,9 +3,9 @@
 ### Senior Software Engineer · Backend · Cloud · Architecture
 
 <p align="left">
-  <a href="https://fstrony.github.io">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/fstrony/">LinkedIn</a> ·
-  <a href="https://github.com/FStrony">GitHub</a>
+  <a href="https://fstrony.github.io">🌐 Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/fstrony/">💼 LinkedIn</a> ·
+  <a href="https://github.com/FStrony">🐙 GitHub</a>
 </p>
 
 > Building software systems where architecture, reliability and business context matter as much as the code.
@@ -23,7 +23,7 @@ My strongest focus today is **Java, Spring Boot, AWS, microservices and asynchro
 - 🔌 Strong background in **REST APIs, integrations and asynchronous/event-driven systems**
 - 🏗️ Comfortable with **legacy modernisation** and incremental architectural change
 - 🧪 Advocate for **clean code, automated testing, TDD and pragmatic engineering**
-- 🌍 Comfortable working in **international, distributed and remote teams**
+- 🌍 Comfortable working with **international, distributed and remote teams**
 - 🇦🇺 Lived and studied in **Australia for four years**
 - 🤿 Volunteer experience in **marine conservation**
 
@@ -32,19 +32,23 @@ My strongest focus today is **Java, Spring Boot, AWS, microservices and asynchro
 ## 🛠️ Core technology
 
 ### Backend & Architecture
+
 `Java` · `Spring Boot` · `Spring Security` · `Spring Batch`  
 `REST APIs` · `Microservices` · `Event-Driven Architecture` · `System Design`  
 `DDD` · `Design Patterns` · `OOP` · `TDD`
 
 ### Cloud & DevOps
+
 `AWS` · `SNS` · `SQS` · `Docker` · `Terraform` · `Ansible`  
 `CI/CD` · `Jenkins` · `GitHub Actions`
 
 ### Data
+
 `Oracle` · `SQL Server` · `MySQL` · `MongoDB` · `Redis`  
 `PL/SQL` · `JPA` · `Hibernate`
 
 ### Additional experience
+
 `.NET` · `C#` · `ASP.NET` · `Ruby on Rails` · `PHP`  
 `React` · `AngularJS` · `Selenium`
 
@@ -67,34 +71,40 @@ Experience designing, developing and maintaining software across different busin
 - Translating business requirements into pragmatic technical solutions
 
 ### Helix Code — Independent
+
 **Software Developer · 2019–2020**
 
 Custom full-stack systems, including a real estate asset management platform built with ASP.NET Core, React and MongoDB.
 
 ### Professional Development — Australia
+
 **2014–2018 · Sydney, Australia**
 
 Software development, project management and English-language studies in an international environment.
 
-### LocAweb
+### Locaweb
+
 **Junior Software Developer · 2013–2014**
 
 Development and maintenance across email, PaaS and enterprise applications using Ruby on Rails, PHP, C#, MySQL and Redis.
 
-### BRQ / System Marketing Consulting
-**Software Development Intern · 2012–2013**
+### BRQ
 
-Early-career experience with .NET, Oracle, PL/SQL and SQL Server across development, documentation, testing and data operations.
+**Software Development Intern · 2013**
+
+Experience with Oracle, PL/SQL, technical specifications and software testing.
 
 ---
 
 ## 🎓 Education
 
+- **MBA — Cloud Computing & DevOps** · Impacta Tecnologia · 2025–2026
 - **MBA — Software Engineering** · FIAP
-- **Bachelor's Degree — Information Systems**
+- **Bachelor's Degree — Information Systems** · FMU
 - **Diploma — Project Management** · Greenwich College, Australia
 - **Diploma — Information Technology (Software Development)** · Holmes Institute, Australia
-- **English studies / IELTS preparation** · Australia
+- **Technologist Degree — Systems Analysis and Development** · FIAP
+- **Technical Diploma — Information Technology** · ETEC – Escola Técnica Estadual de São Paulo
 
 ---
 
@@ -104,8 +114,8 @@ I spent **four years in Australia**, studying software development and project m
 
 That experience shaped more than my English: it strengthened my autonomy, communication, adaptability and ability to collaborate across cultures.
 
-**English:** professional working proficiency  
-**Portuguese:** native
+**English:** Fluent / professional working proficiency  
+**Portuguese:** Native
 
 ---
 
@@ -119,50 +129,39 @@ Professional case studies are intentionally described at a high level to respect
 
 ---
 
-# 📄 Resume
+## 📄 Resume / CV
 
-## 🇬🇧 English
+The portfolio provides language-specific documents:
 
-**Fernando Augusto Santos**  
-Senior Software Engineer · Technical Consultant
+### 🇬🇧 English
 
-**Profile**
+**[Download Resume](https://fstrony.github.io/resume/Fernando_Augusto_Santos_Resume_EN.pdf)**
 
-Senior Software Engineer and Technical Consultant with 10+ years of experience across backend engineering, APIs, integrations, databases, cloud and legacy modernisation. Strongest focus on Java, Spring Boot, AWS, microservices and asynchronous integrations, supported by broader experience across .NET, Ruby, PHP and frontend systems.
+### 🇧🇷 Português (Brasil)
 
-**Core strengths:** Backend Engineering · Software Architecture · Microservices · REST APIs · AWS · Cloud Integrations · Event-Driven Architecture · Asynchronous Processing · Legacy Modernisation · Automated Testing · Technical Consulting
+**[Baixar Currículo](https://fstrony.github.io/resume/Fernando_Augusto_Santos_CV_PT-BR.pdf)**
 
-**Languages:** Portuguese — Native · English — Professional working proficiency
-
-## 🇧🇷 Português
-
-**Fernando Augusto Santos**  
-Engenheiro de Software Sênior · Consultor Técnico
-
-**Perfil**
-
-Engenheiro de Software Sênior e Consultor Técnico com mais de 10 anos de experiência em engenharia backend, APIs, integrações, bancos de dados, cloud e modernização de sistemas legados. Foco principal em Java, Spring Boot, AWS, microsserviços e integrações assíncronas, complementado por experiência em .NET, Ruby, PHP e sistemas frontend.
-
-**Principais competências:** Engenharia Backend · Arquitetura de Software · Microsserviços · APIs REST · AWS · Integrações Cloud · Arquitetura Orientada a Eventos · Processamento Assíncrono · Modernização de Legados · Testes Automatizados · Consultoria Técnica
-
-**Idiomas:** Português — Nativo · Inglês — Proficiência profissional
+Both documents include direct links to my portfolio, LinkedIn and GitHub.
 
 ---
 
 ## 🎯 What I'm interested in
 
-I'm interested in **Senior Software Engineering and Technical Consulting opportunities**, particularly in international, distributed and remote teams.
+I'm open to **Senior Software Engineering and Technical Consulting opportunities** with Brazilian and international teams, including distributed and remote environments.
 
-I'm also open to opportunities in **Brazil** where there is a strong technical challenge, meaningful engineering work and room to contribute to architecture and product outcomes.
+I'm particularly interested in roles where I can contribute across backend engineering, architecture, cloud integrations and technical problem-solving.
 
 ---
 
 ## 🤝 Let's connect
 
-**Portfolio:** https://fstrony.github.io  
-**LinkedIn:** https://www.linkedin.com/in/fstrony/  
-**GitHub:** https://github.com/FStrony
+**🌐 Portfolio:** https://fstrony.github.io  
+**💼 LinkedIn:** https://www.linkedin.com/in/fstrony/  
+**🐙 GitHub:** https://github.com/FStrony  
+**📄 Resume / CV:** available above
 
-> Deep where it counts.
+---
+
+> **Deep where it counts.**
 
 <sub>Built with curiosity, pragmatism and a strong belief that good engineering starts with understanding the problem.</sub>
